@@ -1,5 +1,0 @@
-version = 4
-
-[[package]]
-name = "logger"
-version = "0.0.1"
